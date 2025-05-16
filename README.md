@@ -1,23 +1,19 @@
-# 🥗 FreshMeal - E-Commerce Food Website
+# Complete HTML, CSS & JavaScript Web Development Course
 
-**FreshMeal** is a modern and responsive food e-commerce website. It showcases food products, features blog articles, newsletter signup, and a contact form — all designed with HTML, CSS, Bootstrap, and Font Awesome.
+Welcome to my comprehensive **HTML, CSS, and JavaScript Web Development Course** repository! This project is thoughtfully designed to guide absolute beginners through the fundamentals of frontend development, helping you build practical skills and confidence step-by-step.
 
-## 🚀 Features
+Inside this course, you will find:
 
-- ✅ Responsive homepage with hero slider
-- 🍲 Product cards with images, descriptions, and prices
-- 📝 Blog section for food-related content
-- ✉️ Newsletter subscription form
-- 📞 Contact section with working form layout
-- 🌐 Footer with social media icons and quick links
+- **Clean and well-organized code examples** with detailed comments to explain every concept clearly.  
+- **Hands-on lessons** that cover core technologies: semantic HTML5, responsive CSS styling, and interactive JavaScript.  
+- **Progressive learning path** that builds complexity gradually, from basic structure to real-world projects like contact forms and interactive UI components.  
+- **Best practices and coding standards** to help you write maintainable and accessible web code.  
 
-## 🛠️ Technologies Used
+Whether you want to start a career in web development or enhance your existing skills, this course provides a strong foundation and practical experience to build your own modern websites.
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- Font Awesome
-- Google Fonts
 
-## 📂 Folder Structure
 
+**Clone the repository:**  
+   
+bash---
+   git clone https://github.com/SulemanSagheer71/Web-Development
